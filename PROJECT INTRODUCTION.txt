@@ -1,0 +1,13 @@
+                                                        
+
+
+                                                                               PROJECT INTRODUCTION
+
+
+The purpose of this project is to give students  practice on self-learning and researching on Software Version Control. in this project we will be focusing on git which  is a free andopen source distributed version control system designed to handle everything from small to very large projects with speed and efficiency
+
+Tasks :
+
+a. Understand Git commands
+b. Try most common Git commands
+c. Draft a report for your experiment.
