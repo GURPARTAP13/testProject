@@ -8,5 +8,5 @@ The purpose of this project is to give students  practice on self-learning and r
 
 Tasks :
 
-a. Understand Git commands
-b. Try most common Git commands
+1. Understand Git commands
+2.Try most common Git commands
